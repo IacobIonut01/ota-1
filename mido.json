@@ -7,7 +7,12 @@
       "romtype": "OFFICIAL",
       "size": 337975048, 
       "url": "https://master.dl.sourceforge.net/project/dotos-downloads/mido/dotOS-P-v3.0-mido-OFFICIAL-20180926.zip", 
-      "version": "v3.0"
+      "version": "v3.0",
+      "changelog_system": "Test",
+      "changelog_misc" : "Testuk",
+      "changelog_device" : "Testulini",
+      "changelog_settings" : "Testuos",
+      "changelog_securitypatch" : "Big Tasty"
     }
   ]
 }
