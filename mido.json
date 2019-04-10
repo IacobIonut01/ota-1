@@ -1,13 +1,18 @@
 {
   "response": [
      {
-      "datetime": 1537983274, 
-      "filename": "dotOS-P-v3.0-mido-OFFICIAL-20190410.zip", 
-      "id": "3013905fd6e49e88986b453bd5ba8e9b", 
+      "datetime": 1553763719, 
+      "filename": "dotOS-P-v3.0-mido-OFFICIAL-20190428-0902.zip", 
+      "id": "e01c5e9d315e4afc22f64c8e27d00dd2", 
       "romtype": "OFFICIAL",
-      "size": 337975048, 
-      "url": "https://sourceforge.net/projects/dotos-downloads/files/dotp/mido/dotOS-P-v3.0-mido-OFFICIAL-20190328-0902.zip", 
-      "version": "v3.0"
+      "size": 596623448, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/mido/dotOS-P-v3.0-mido-OFFICIAL-20190328-0902.zip", 
+      "version": "v3.0",
+	    "changelog_system": "Android 9.0 Release",
+      "changelog_misc" : "Bug fixes",
+      "changelog_device" : "Added HW Customisations\n- Fixed lockscreen statusbar clock overlaping\n- Added Invert Navbar Feature ",
+      "changelog_settings" : "",
+      "changelog_securitypatch" : "March 05 2019"
     }
   ]
 }
