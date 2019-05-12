@@ -15,7 +15,10 @@
       "changelog_securitypatch" : "April 01 2019",
       "maintainer_name" : "Bobby the Tester",
       "maintainer_xda" : "https://google.ro",
-      "maintainer_other" : "Write Quick Description"
+      "maintainer_other" : "Write Quick Description",
+      "maintainer_telegram" : "https://t.me/iacobionut",
+      "maintainer_devices" : "mido",
+      "maintainer_img_url" : "https://i.imgur.com/Z3d2xps.jpg"
     }
   ]
 }
