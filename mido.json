@@ -10,9 +10,13 @@
       "version": "v3.1",
       "changelog_system": "Brand new UI",
       "changelog_misc" : "Old bugs has been fixes",
-      "changelog_device" : "",
-      "changelog_settings" : "",
-      "changelog_securitypatch" : "April 01 2019"
+      "changelog_device" : "Smh kernel upstream",
+      "changelog_settings" : "Why not new design",
+      "changelog_securitypatch" : "April 05 2019"
+      "maintainer_name" : "Bobby the Tester",
+      "maintainer_telegram" : "https://t.me/iacobionut",
+      "maintainer_devices" : "mido",
+      "maintainer_img_url" : "https://i.imgur.com/Z3d2xps.jpg"
     }
   ]
 }
